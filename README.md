@@ -1,2 +1,2 @@
 # Matematica
-Meu ambiente de estudo de estatística e probabilidade.
+Ambiente de estudo sobre estatística e probabilidade.
